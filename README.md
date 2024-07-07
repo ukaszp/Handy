@@ -1,6 +1,6 @@
 # Handy
 
-![logo](https://github.com/ukaszp/Handy/assets/103902196/f0409951-3147-4f75-8bdc-12c7d4005f2c)
+<img src="https://github.com/ukaszp/Handy/assets/103902196/f0409951-3147-4f75-8bdc-12c7d4005f2c" alt="logo" width="200"/>
 
 System that connects customers with professionals specializing in repairs and renovations. Designed for both intuitive use and efficiency, this system comprises a robust backend built on .NET Framework, ASP.NET, C#, REST API, and SQL Server, along with an interactive frontend developed using React, TypeScript, and Zustand for state management.
 
