@@ -1,0 +1,90 @@
+{
+  "name": "Jan",
+  "lastName": "Kowalski",
+  "email": "jan@gmail.com",
+  "password": "haslo123",
+  "confirmPassword": "haslo123",
+  "contactNumber": "123446789",
+  "gender": true,
+  "dateOfBirth": "2023-11-15T18:24:36.415Z"
+}
+
+{
+bearer
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiSmFuIEtvd2Fsc2tpIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsIkRhdGVvZkJpcnRoIjoiMjAyMy0xMS0xNSIsIm5iZiI6MTcwMDE1MjE2NCwiZXhwIjoxNzAxNDQ4MTY0LCJpc3MiOiJhY2NvdW50YXBpLnBsIiwiYXVkIjoiYWNjb3VudGFwaS5wbCJ9.PU5X7wC7NAqKNJA9MktamdZ0mhzTDJCwWCZr4uIY_bY
+}
+
+admin@admin.pl
+Admin123
+
+ {
+    "Name": "John",
+    "LastName": "Doe",
+    "Email": "john.doe@example.com",
+    "Password": "password123",
+    "ConfirmPassword": "password123",
+    "ContactNumber": "123-456-7890",
+    "Gender": true,
+    "DateOfBirth": "1990-05-15"
+  },
+  {
+    "Name": "Jane",
+    "LastName": "Smith",
+    "Email": "jane.smith@example.com",
+    "Password": "pass456",
+    "ConfirmPassword": "pass456",
+    "ContactNumber": "987-654-3210",
+    "Gender": false,
+    "DateOfBirth": "1985-08-22"
+  },
+  {
+    "Name": "Alice",
+    "LastName": "Johnson",
+    "Email": "alice.johnson@example.com",
+    "Password": "securePass",
+    "ConfirmPassword": "securePass",
+    "ContactNumber": "555-123-4567",
+    "Gender": true,
+    "DateOfBirth": "1995-02-10"
+  },
+   {
+    "Name": "Mateusz",
+    "LastName": "Kowalski",
+    "Email": "mateusz@example.com",
+    "Password": "haslo123",
+    "ConfirmPassword": "haslo123",
+    "ContactNumber": "123-456-7890",
+    "Gender": true,
+    "DateOfBirth": "1988-11-25"
+  },
+  {
+    "Name": "Anna",
+    "LastName": "Nowak",
+    "Email": "anna.nowak@example.com",
+    "Password": "noweHaslo",
+    "ConfirmPassword": "noweHaslo",
+    "ContactNumber": "987-654-3210",
+    "Gender": false,
+    "DateOfBirth": "1992-07-15"
+  },
+  {
+    "Name": "Piotr",
+    "LastName": "Wójcik",
+    "Email": "piotr.wojcik@example.com",
+    "Password": "bezpieczneHaslo",
+    "ConfirmPassword": "bezpieczneHaslo",
+    "ContactNumber": "555-123-4567",
+    "Gender": true,
+    "DateOfBirth": "1985-04-03"
+  },
+  {
+    "Name": "Katarzyna",
+    "LastName": "Lis",
+    "Email": "katarzyna.lis@example.com",
+    "Password": "lisoweHaslo",
+    "ConfirmPassword": "lisoweHaslo",
+    "ContactNumber": "111-222-3333",
+    "Gender": false,
+    "DateOfBirth": "1990-09-18"
+  }
