@@ -1,4 +1,6 @@
-#Handy
+# Handy
+
+
 System that connects customers with professionals specializing in repairs and renovations. Designed for both intuitive use and efficiency, this system comprises a robust backend built on .NET Framework, ASP.NET, C#, REST API, and SQL Server, along with an interactive frontend developed using React, TypeScript, and Zustand for state management.
 
 ## System Features
