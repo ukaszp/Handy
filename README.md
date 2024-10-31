@@ -4,7 +4,7 @@
 
 System that connects customers with professionals specializing in repairs and renovations. Designed for both intuitive use and efficiency, this system comprises a robust backend built on .NET Framework, ASP.NET, C#, REST API, and SQL Server, along with an interactive frontend developed using React, TypeScript, and Zustand for state management.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hSkKG4O4E5w?si=JOiyynQ1moXcanXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Preview:
 https://youtu.be/hSkKG4O4E5w
 
